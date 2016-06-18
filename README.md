@@ -70,6 +70,7 @@ Tuesdays | Thursdays
  - [Lecture 2 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%202%20-%20Introduction%20-%20Part%202.pptx) 
  - [Basic Statistics - Part 2 - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%202%20-%20Intro.ipynb) 
  - [Basic Statistics - Part 2 - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%202-%20Intro%20-Practice-Code.ipynb)
+ - [Basic Statistics - Part 2 - Practice Code - Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%202-%20Intro%20-Practice-Code-Solutions.ipynb)
 
 
 **HW 1 is Assigned**
