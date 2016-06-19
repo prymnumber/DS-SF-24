@@ -34,9 +34,9 @@ Tuesdays | Thursdays
 **Resources**
  
  - [Lecture 1 - Introduction - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%201%20-%20Introduction.pptx)
- - [Intro Numpy - Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture1_Intro_Numpy.ipynb)
+ - [Intro Numpy - Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%201_Intro_Numpy.ipynb)
  - [Intro Numpy - Code - Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%201_Intro_Numpy_Solutions.ipynb)
- - [Intro Pandas - Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture1_Intro_Pandas.ipynb)
+ - [Intro Pandas - Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%201_Intro_Pandas.ipynb)
  - [InClass Practice Code - Pandas](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%201-Practice-Code.ipynb)
  - [InClass Practice Code - Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%201-Practice-Code-Solutions.ipynb)
  
