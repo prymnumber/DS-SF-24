@@ -97,12 +97,14 @@ Tuesdays | Thursdays
 - [Lecture 3 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%203%20-%20Linear%20Regression%20-%20Part%201.pptx) 
 - [Linear Regression - Part I - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%203%20-%20Linear%20Regression%20-%20Part%201.ipynb) 
 - [Linear Regression - Part I - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%203-Practice-Code.ipynb)
+- [Linear Regression - Part I - Practice Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%203-Practice-Solution.ipynb)
 
 **Additional Resources**
 
 - My videos on regression lines. [Video 1](https://www.youtube.com/watch?v=QRzaKZRqens), [Video 2](https://www.youtube.com/watch?v=F6ceTd56vc0)
 - This is an [excellent book](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf). In Lecture 3 and Lecture 4, we are going to cover Chapter 3 of this textbook.
-- [Seaborn](https://web.stanford.edu/~mwaskom/software/seaborn/api.html) - [Weighted Least Square Method (WLS)](http://www.econ.uiuc.edu/~wsosa/econ471/GLSHeteroskedasticity.pdf) 
+- [Seaborn](https://web.stanford.edu/~mwaskom/software/seaborn/api.html) 
+- [Weighted Least Square Method (WLS)](http://www.econ.uiuc.edu/~wsosa/econ471/GLSHeteroskedasticity.pdf) 
 - Good resource for [heteroskedasticity](http://www.statsmakemecry.com/smmctheblog/confusing-stats-terms-explained-heteroscedasticity-heteroske.html)
 - [Here](http://math.arizona.edu/~calc/Text/Section12.3.pdf) Contours are elegantly introduced.)
 
