@@ -127,3 +127,10 @@ Tuesdays | Thursdays
 - My videos on regression lines. [Video 1](https://www.youtube.com/watch?v=QRzaKZRqens), [Video 2](https://www.youtube.com/watch?v=F6ceTd56vc0)
 - This is an [excellent book](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf). In Lecture 3 and Lecture 4, we covered Chapter 3 of this textbook.
 - [statmodels.formula.api](http://statsmodels.sourceforge.net/devel/)
+
+**HW 2 is Assigned**
+
+ - Please read and follow instructions from [readme](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW2/readme.md)
+ - [Here](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW2/HW2-Starter-Code.ipynb) you can find iPython notebook of your 2nd assignment.
+ - This homework is due on Jun 30th, 2016 at 6:30PM
+
