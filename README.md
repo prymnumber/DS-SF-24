@@ -76,7 +76,7 @@ Tuesdays | Thursdays
 **HW 1 is Assigned**
 
  - Please read and follow instructions from [readme](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW1/readme.md)
- - This homework is due on Jun 23rd, 2016 at 6:30PM
+ - This homework is due on June 23rd, 2016 at 6:30PM
 
 **Additional Resources**
 
@@ -132,5 +132,5 @@ Tuesdays | Thursdays
 
  - Please read and follow instructions from [readme](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW2/readme.md)
  - [Here](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW2/HW2-Starter-Code.ipynb) you can find iPython notebook of your 2nd assignment.
- - This homework is due on Jun 30th, 2016 at 6:30PM
+ - This homework is due on June 30th, 2016 at 6:30PM
 
