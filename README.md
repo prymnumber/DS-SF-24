@@ -109,5 +109,21 @@ Tuesdays | Thursdays
 - [Here](http://math.arizona.edu/~calc/Text/Section12.3.pdf) Contours are elegantly introduced.)
 
 
+## Lecture 4 Summary (Linear Regression Lines - Part II)
+- Hypothesis test - test of significance on regression coefficients
+- p-values
+- Capture non-linearity using Linear Regression lines.
+- R-squared
+- Interaction Effects
 
+**Resources**
  
+- [Lecture 4 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%204%20-%20Regression%20-%20Part%202.pptx) 
+- [Linear Regression - Part II - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture4.ipynb) 
+- [Linear Regression - Part II - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture4-Practice-Code.ipynb)
+
+ **Additional Resources**
+
+- My videos on regression lines. [Video 1](https://www.youtube.com/watch?v=QRzaKZRqens), [Video 2](https://www.youtube.com/watch?v=F6ceTd56vc0)
+- This is an [excellent book](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf). In Lecture 3 and Lecture 4, we covered Chapter 3 of this textbook.
+- [statmodels.formula.api](http://statsmodels.sourceforge.net/devel/)
