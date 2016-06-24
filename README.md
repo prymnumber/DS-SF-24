@@ -121,6 +121,7 @@ Tuesdays | Thursdays
 - [Lecture 4 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%204%20-%20Regression%20-%20Part%202.pptx) 
 - [Linear Regression - Part II - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%204%20-%20Linear%20Regression%20-%20Part%202.ipynb) 
 - [Linear Regression - Part II - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%204-Practice-Code.ipynb)
+- [Linear Regression - Part II - Practice Solution](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture4-Practice-Solution.ipynb)
 
 **Additional Resources**
 
