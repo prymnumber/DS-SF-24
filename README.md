@@ -148,6 +148,7 @@ Tuesdays | Thursdays
  - [Lecture 5 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%205%20-%20Model%20Selection.pptx) 
  - [Model Selection - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture5-Model_Selection.ipynb) 
  - [Model Selection  - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture5-Practice-Code.ipynb) 
+ - [HW 1 - Key](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW1/HW1-Key.ipynb)
  
  **Additional Resources**
  
