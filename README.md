@@ -152,7 +152,7 @@ Tuesdays | Thursdays
  - [HW 1 - Key](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW1/HW1-Key.ipynb)
  
  
- **Additional Resources**
+**Additional Resources**
  
  - [Preprocessing](http://scikit-learn.org/stable/modules/preprocessing.html) Library
  - [Cross-Validation](http://scikit-learn.org/stable/modules/cross_validation.html) Library
