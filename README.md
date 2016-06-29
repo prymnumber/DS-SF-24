@@ -181,7 +181,7 @@ Tuesdays | Thursdays
 
 **Announcements**
 
-- Hw 3 is assigned (Due at 6:30PM - July 7th)
+- **HW 3 is assigned** (Due at 6:30PM - July 7th)
 - Please read [this](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW3/readme.md) before starting your assignment.
 - HW3 starter code can be found [here](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW3/HW3-Starter-code.ipynb)
 
