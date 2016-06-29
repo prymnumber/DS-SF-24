@@ -7,6 +7,8 @@ In this project, you will use a few methods learned in the class to deal with mi
 
 **Goal:** An IPython notebook writeup that provides solutions to our missing data. 
 
+You can find ipython starter code [here](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW3/HW3-Starter-code.ipynb)
+
 ---
 
 ### DELIVERABLES
