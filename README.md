@@ -148,7 +148,9 @@ Tuesdays | Thursdays
  - [Lecture 5 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%205%20-%20Model%20Selection.pptx) 
  - [Model Selection - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture5-Model_Selection.ipynb) 
  - [Model Selection  - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture5-Practice-Code.ipynb) 
+ - [Model Selection - Practice Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture5-Practice-Solution.ipynb)
  - [HW 1 - Key](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW1/HW1-Key.ipynb)
+ 
  
  **Additional Resources**
  
@@ -158,4 +160,5 @@ Tuesdays | Thursdays
  - [Here](https://www.youtube.com/watch?v=oTeXrcyaqKA) you can find my video on Cross-Validation
  - [Here](https://www.youtube.com/watch?v=2KTRa3QKvMY) you can find my video on Ridge and Lasso Regression
  - [Here](https://www.youtube.com/watch?v=fV1LQV0bQTU) you can find my video on Best subset selection.
+ 
 
