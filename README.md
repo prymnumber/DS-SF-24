@@ -185,5 +185,20 @@ Tuesdays | Thursdays
 - Please read [this](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW3/readme.md) before starting your assignment.
 - HW3 starter code can be found [here](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW3/HW3-Starter-code.ipynb)
 
+## Lecture 7 Summary (K-Nearest Neighbors)
+
+- Classification Problems
+- Misclassifciation Error
+- KNN algorithm for Classification
+- Cross-Validation for KNN Algorithm
+- Limitations of KNN Algorithm
+- KNN algorithm for Regression
+
+**Resources**
+ 
+- [Lecture 7 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%207%20-%20KNN.pptx) 
+- [K-Nearest Neighbors - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture7-KNN.ipynb) 
+- [K-Nearest Neighbors  - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture7-Practice-Code.ipynb) 
+
 
 
