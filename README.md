@@ -200,5 +200,9 @@ Tuesdays | Thursdays
 - [K-Nearest Neighbors - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture7-KNN.ipynb) 
 - [K-Nearest Neighbors  - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture7-Practice-Code.ipynb) 
 
+**Announcements**
+
+- [HW 2 Solutions](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW2/HW2-Solution.ipynb) are posted.
+
 
 
