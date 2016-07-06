@@ -205,5 +205,18 @@ Tuesdays | Thursdays
 
 - [HW 2 Solutions](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW2/HW2-Solution.ipynb) are posted.
 
+## Lecture 8 Summary (Logistic Regression Part I)
+
+- Logistic Regression - Intro
+- Odds vs Probability
+- Using Logistic Regression to Make predictions
+- How one interprets coefficients of a Logistic Regression model
+- Strength and weaknesses of Logistic Regression Model
+
+**Resources**
+ 
+- [Lecture 8 - Slides](https://github.com/ga-students/SF-DAT-20/blob/master/Lecture%20Notes-Slides/Lecture%209.pptx) 
+- [Logistic Regression Part I - Lab Codes](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture9.ipynb) 
+- [Logistic Regression Part I - Practice Code](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture9-Practice-Code.ipynb) 
 
 
