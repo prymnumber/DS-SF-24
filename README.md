@@ -219,4 +219,6 @@ Tuesdays | Thursdays
 - [Logistic Regression Part I - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture8.ipynb) 
 - [Logistic Regression Part I - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture8-Practice-Code.ipynb) 
 
+**Additional Resources**
 
+- Logistic Regression [video](https://www.youtube.com/watch?time_continue=374&v=r-yv6GbWep4)
