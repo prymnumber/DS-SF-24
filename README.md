@@ -199,6 +199,7 @@ Tuesdays | Thursdays
 - [Lecture 7 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%207%20-%20KNN.pptx) 
 - [K-Nearest Neighbors - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture7-KNN.ipynb) 
 - [K-Nearest Neighbors  - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture7-Practice-Code.ipynb) 
+- [K-Nearest Neighbors - Practice Solution](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture7-Practice-Solution.ipynb)
 
 **Announcements**
 
