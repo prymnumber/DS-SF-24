@@ -219,7 +219,7 @@ Tuesdays | Thursdays
 - [Lecture 8 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%208-Logistic_Regression_Part%20I.pptx) 
 - [Logistic Regression Part I - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture8.ipynb) 
 - [Logistic Regression Part I - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture8-Practice-Code.ipynb) 
-- [Logistic Regression Part I - Practice Solutions]
+- [Logistic Regression Part I - Practice Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture8-Practice-Solutions.ipynb)
 
 **Additional Resources**
 
