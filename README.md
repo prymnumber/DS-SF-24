@@ -228,3 +228,18 @@ Tuesdays | Thursdays
 **HW 3 Solutions Posted**
 
 - [HW 3 Soltions](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW3/HW3-Solution.ipynb)
+
+## Lecture 9 Summary (Logistic Regression Part II)
+
+- Unbalanced observations and Logistic Regression
+- FP/FN/TP/TN/FPR/TPR
+- The effect of changing Threshhold
+- ROC Curves
+- Area Under Curve
+- How to compare classifciation algorithms
+
+**Resources**
+ 
+- [Lecture 9 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%209-Logistic%20Regression_Part%20II.pptx)
+- [Logistic Regression Part II - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture9.ipynb) 
+- [Logistic Regression Part II - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture9-Practice-Code.ipynb) 
