@@ -243,3 +243,4 @@ Tuesdays | Thursdays
 - [Lecture 9 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%209-Logistic%20Regression_Part%20II.pptx)
 - [Logistic Regression Part II - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture9.ipynb) 
 - [Logistic Regression Part II - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture9-Practice-Code.ipynb) 
+- [Logistic Regression Part II - Practice - Solutions](Logistic Regression Part II - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture9-Practice-Solution.ipynb)
