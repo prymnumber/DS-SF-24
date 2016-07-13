@@ -248,3 +248,8 @@ Tuesdays | Thursdays
 ## Lecture 10 (In-Class Projects)
 
 
+- [Breast Cancer Project](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture10_Project_Breast_Cancer.ipynb)
+- [Energy Efficiency Project](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture10_Project_Energy_Efficiency.ipynb)
+- [Income Prediction Project](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture10_Project_Income_Prediction.ipynb)
+- [Wine Quality Project](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture10_Project_White_Wine_quality.ipynb)
+
