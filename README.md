@@ -11,7 +11,7 @@ Tuesdays | Thursdays
 6/28: Model Selection | 6/30: Missing Data and Imputation
 7/5: K-Nearest Neighbors | 7/7: Logistic Regression Part I
 7/12: Logistic Regression Part II | 7/14: In Class Project 
-7/19: Decision Trees Part I | 7/21: Decision Trees Part II
+7/19: Tree-Based Models Part I | 7/21: Tree-Based Models Part II
 7/26: Natural Language Processing | 7/28: Time Series Models
 8/2: Principal Component Analysis | 8/4: Data Visualization
 8/9: Naive Bayes | 8/11: Course Review
@@ -253,3 +253,21 @@ Tuesdays | Thursdays
 - [Income Prediction Project](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture10_Project_Income_Prediction.ipynb)
 - [Wine Quality Project](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture10_Project_White_Wine_quality.ipynb)
 
+## Lecture 11 Summary (Tree-Based Models - part I)
+
+- Decision Tree for Regression
+- Greedy Approach
+- Decision Tree for Classification
+- Gini Index and Entropy index
+- Limitation of Simple Decision Trees
+
+**Resources**
+ 
+- [Lecture 11 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%2011%20-%20Tree-Based%20Models%20-%20Part%20I.pptx)
+- [Decision Trees Part I - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture11.ipynb) 
+- [Decision Trees Part I - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture11-Practice-Code.ipynb) 
+
+**Additional Resources**
+
+- [Tree-Based Models - Video 1](https://www.youtube.com/watch?v=U-dYqlvafYA)
+- [Tree-Based Models - Video 2](https://www.youtube.com/watch?v=6fopQt_ENeU)
