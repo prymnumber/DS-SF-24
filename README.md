@@ -271,7 +271,7 @@ Tuesdays | Thursdays
 
 - [Tree-Based Models - Video 1](https://www.youtube.com/watch?v=U-dYqlvafYA)
 - [Tree-Based Models - Video 2](https://www.youtube.com/watch?v=6fopQt_ENeU)
-- If you are among the ones who hate dealing with dummy variables, enjoy working with the following function
+- If you are among the ones who hate dealing with dummy variables, enjoy working with this [dummify function](https://github.com/ga-students/DS-SF-24/blob/master/Resources%20for%20Students/Dummify_Function.ipynb)
 
 
 
