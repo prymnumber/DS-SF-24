@@ -249,9 +249,12 @@ Tuesdays | Thursdays
 
 
 - [Breast Cancer Project](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture10_Project_Breast_Cancer.ipynb)
+- [Breast Cancer - Group Notebook](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture10_Project_Breast_Cancer_Group_Try.ipynb)
 - [Energy Efficiency Project](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture10_Project_Energy_Efficiency.ipynb)
+- [Energy Efficiency - Group Notebook](https://github.com/ga-students/DS-SF-24/blob/master/Code/lecture10_project_energy_efficiency_Group_Try.ipynb)
 - [Income Prediction Project](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture10_Project_Income_Prediction.ipynb)
 - [Wine Quality Project](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture10_Project_White_Wine_quality.ipynb)
+- [Wine Quality - Group Notebook](https://github.com/ga-students/DS-SF-24/blob/master/Code/lecture10_project_energy_efficiency_Group_Try.ipynb)
 
 ## Lecture 11 Summary (Tree-Based Models - part I)
 
