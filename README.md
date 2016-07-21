@@ -277,4 +277,23 @@ Tuesdays | Thursdays
 - If you are among the ones who hate dealing with dummy variables, enjoy working with this [dummify function](https://github.com/ga-students/DS-SF-24/blob/master/Resources%20for%20Students/Dummify_Function.ipynb)
 
 
+## Lecture 12 Summary Tree-Based Models - part II)
 
+- Bagging
+- Random Forest
+- Boosting
+- Tuning parameters for boosting and Random Forest
+
+**Resources**
+ 
+- [Lecture 12 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%2012%20-%20Tree-Based%20Models%20Part%20II.pptx)
+- [Decision Trees Part II - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture12.ipynb) 
+- [Decision Trees Part II - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture12-Practice-Code.ipynb) 
+
+
+
+**Additional Resources**
+
+
+- [Bagging, Boosting, and Random Forest - Video](https://www.youtube.com/watch?v=BaPmPEWxKu0)
+- [BootStrap - Video](https://www.youtube.com/watch?v=8bLsk1WXgDk)
