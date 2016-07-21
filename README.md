@@ -297,3 +297,9 @@ Tuesdays | Thursdays
 
 - [Bagging, Boosting, and Random Forest - Video](https://www.youtube.com/watch?v=BaPmPEWxKu0)
 - [BootStrap - Video](https://www.youtube.com/watch?v=8bLsk1WXgDk)
+
+**Announcement**
+
+- [HW 4](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture12-Practice-Code.ipynb) is assigned and is due on July 28th 2016 at 6:30PM.
+- Please read [ReadMe](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW4/readme.md) file before working on your project. 
+

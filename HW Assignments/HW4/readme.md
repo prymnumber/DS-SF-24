@@ -68,7 +68,7 @@ While your total score is a helpful gauge of whether you've met overall project 
 In this project we are going to use 'spambase.csv' dataset. This dataset has been used earlier for Logistic Regression model. 
 
 #### Starter code
-For this project we will be using an IPython notebook. 
+For this project we will be using an [IPython notebook](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture12-Practice-Code.ipynb). 
 
 
 
