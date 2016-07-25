@@ -311,10 +311,9 @@ Tuesdays | Thursdays
 
 **Resources**
  
-- [Lecture 13 - Slides](https://github.com/ga-students/SF-DAT-20/blob/master/Lecture%20Notes-Slides/Lecture%2013.pptx)
-- [Natural Language Processing - Lab Codes](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture13.ipynb) 
-- [Natural Language Processing - Practice Code](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture13-Practice-Code.ipynb) 
-- [Natural Language Processing - Practice Solutions](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture13-Practice-Solution.ipynb)
+- [Lecture 13 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%2013%20-%20NLP.pptx)
+- [Natural Language Processing - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture13.ipynb) 
+- [Natural Language Processing - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture13-Practice-Code.ipynb) 
 
 
 **Additional Resources**
@@ -328,3 +327,8 @@ Tuesdays | Thursdays
 * [Automatically Categorizing Yelp Businesses](http://engineeringblog.yelp.com/2015/09/automatically-categorizing-yelp-businesses.html) discusses how Yelp uses NLP and scikit-learn to solve the problem of uncategorized businesses.
 * [Modern Methods for Sentiment Analysis](http://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis) shows how "word vectors" can be used for more accurate sentiment analysis.
 * [Identifying Humorous Cartoon Captions](http://www.cs.huji.ac.il/~dshahaf/pHumor.pdf) is a readable paper about identifying funny captions submitted to the New Yorker Caption Contest.
+
+**Pre-Work**
+
+- [Bayes Examples](https://github.com/ga-students/DS-SF-24/blob/master/Resources%20for%20Students/Bayes-Examples.pdf)
+- [Bayes Example - Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Resources%20for%20Students/BayesExamples-Solutions.pdf)
