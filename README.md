@@ -332,3 +332,4 @@ Tuesdays | Thursdays
 
 - [Bayes Examples](https://github.com/ga-students/DS-SF-24/blob/master/Resources%20for%20Students/Bayes-Examples.pdf)
 - [Bayes Example - Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Resources%20for%20Students/BayesExamples-Solutions.pdf)
+- [Principal Component Analysis Video](https://www.youtube.com/watch?v=IPuWD5QfpkA)
