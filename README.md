@@ -314,7 +314,7 @@ Tuesdays | Thursdays
 - [Lecture 13 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%2013%20-%20NLP.pptx)
 - [Natural Language Processing - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture13.ipynb) 
 - [Natural Language Processing - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture13-Practice-Code.ipynb) 
-
+- [Natural Language Processing - Practice Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture13-Practice-Solution.ipynb)
 
 **Additional Resources**
 
