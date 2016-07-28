@@ -333,3 +333,22 @@ Tuesdays | Thursdays
 - [Bayes Examples](https://github.com/ga-students/DS-SF-24/blob/master/Resources%20for%20Students/Bayes-Examples.pdf)
 - [Bayes Example - Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Resources%20for%20Students/BayesExamples-Solutions.pdf)
 - [Principal Component Analysis Video](https://www.youtube.com/watch?v=IPuWD5QfpkA)
+
+## Lecture 14 Summary (Principal Component Analysis)
+
+- Principal Component Analysis
+- Computation of PCAs
+- Geometry of PCAs
+- Proportion of Variance Explained
+
+**Resources**
+ 
+- [Lecture 14 - Slides](https://github.com/ga-students/SF-DAT-20/blob/master/Lecture%20Notes-Slides/Lecture%2014.pptx)
+- [Principal Component Analysis - Lab Codes](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture14.ipynb) 
+- [Principal Component Analysis - Practice Code](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture14-Practice-Code.ipynb) 
+
+**Additional Resources**
+
+* [This tutorial](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf) on Principal Components Analysis (PCA) includes good refreshers on covariance and linear algebra
+* To go deeper on Singular Value Decomposition, read [Kirk Baker's excellent tutorial](https://www.ling.ohio-state.edu/%7Ekbaker/pubs/Singular_Value_Decomposition_Tutorial.pdf).
+* Chapter 10 of  [Statistical Learning with applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf)
