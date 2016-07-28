@@ -343,9 +343,9 @@ Tuesdays | Thursdays
 
 **Resources**
  
-- [Lecture 14 - Slides](https://github.com/ga-students/SF-DAT-20/blob/master/Lecture%20Notes-Slides/Lecture%2014.pptx)
-- [Principal Component Analysis - Lab Codes](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture14.ipynb) 
-- [Principal Component Analysis - Practice Code](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture14-Practice-Code.ipynb) 
+- [Lecture 14 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%2014%20-%20PCA.pptx)
+- [Principal Component Analysis - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture14.ipynb) 
+- [Principal Component Analysis - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture14-Practice-Code.ipynb) 
 
 **Additional Resources**
 
