@@ -346,9 +346,31 @@ Tuesdays | Thursdays
 - [Lecture 14 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%2014%20-%20PCA.pptx)
 - [Principal Component Analysis - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture14.ipynb) 
 - [Principal Component Analysis - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture14-Practice-Code.ipynb) 
+- [Principal Component Analysis - Practice Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture14-Practice-Solution.ipynb)
 
 **Additional Resources**
 
 * [This tutorial](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf) on Principal Components Analysis (PCA) includes good refreshers on covariance and linear algebra
 * To go deeper on Singular Value Decomposition, read [Kirk Baker's excellent tutorial](https://www.ling.ohio-state.edu/%7Ekbaker/pubs/Singular_Value_Decomposition_Tutorial.pdf).
 * Chapter 10 of  [Statistical Learning with applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf)
+
+## Lecture 15 Summary (Time Series Models)
+
+- AutoRegressive Models
+- Moving Averages
+- ARMA
+- ARIMA
+
+**Resources**
+ 
+- [Lecture 15 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%2015%20-%20Time%20Series.pptx)
+- [Time Series Models - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture15.ipynb) 
+- [Time Series Models - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture15-Practice-Code.ipynb) 
+
+
+**Additional Resources**
+
+* [This is a good resource](http://www.maths.qmul.ac.uk/~bb/TS_Chapter4_5.pdf) for AR models
+* [Relatively easy to read book](http://www.statistik-mathematik.uni-wuerzburg.de/fileadmin/10040800/user_upload/time_series/the_book/2012-August-01-times.pdf) on time series. 
+
+
