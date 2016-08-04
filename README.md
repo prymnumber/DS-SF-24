@@ -366,6 +366,7 @@ Tuesdays | Thursdays
 - [Lecture 15 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%2015%20-%20Time%20Series.pptx)
 - [Time Series Models - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture15.ipynb) 
 - [Time Series Models - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture15-Practice-Code.ipynb) 
+- [Time Series Models - Practice Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture15-Practice-Solution.ipynb)
 
 
 **Additional Resources**
