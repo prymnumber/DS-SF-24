@@ -376,7 +376,8 @@ Tuesdays | Thursdays
 
 ## Lecture 16 Visualization - Thanks to Karla and Josh)
 
-* [Visualization Lecture - Karla](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%2016%20-%20Visualization%20Karla.pptx)
-* [Visualization Lecture - Josh](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%2016%20-%20Visualization%20Josh.key)
+* [Visualization Lecture - Karla - ppt](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%2016%20-%20Visualization%20Karla.pptx)
+* [Visualization Lecture - Josh - Key Note](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%2016%20-%20Visualization%20Josh.key)
+* [Visualization Lecture - Josh - pdf](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture16-Josh.pdf)
 * [Visualization Code - Karla](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture16-Karla.ipynb)
 * [Visualization Code - Josh](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture16-Josh.ipynb)
