@@ -373,4 +373,9 @@ Tuesdays | Thursdays
 * [This is a good resource](http://www.maths.qmul.ac.uk/~bb/TS_Chapter4_5.pdf) for AR models
 * [Relatively easy to read book](http://www.statistik-mathematik.uni-wuerzburg.de/fileadmin/10040800/user_upload/time_series/the_book/2012-August-01-times.pdf) on time series. 
 
+## Lecture 16 Visualization - Thanks to Karla and Josh)
 
+* [Visualization Lecture - Karla](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%2016%20-%20Visualization%20Karla.pptx)
+* [Visualization Lecture - Josh](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%2016%20-%20Visualization%20Josh.key)
+* [Visualization Code - Karla](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture16-Karla.ipynb)
+* [Visualization Code - Josh](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture16-Josh.ipynb)
