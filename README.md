@@ -378,6 +378,32 @@ Tuesdays | Thursdays
 
 * [Visualization Lecture - Karla - ppt](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%2016%20-%20Visualization%20Karla.pptx)
 * [Visualization Lecture - Josh - Key Note](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%2016%20-%20Visualization%20Josh.key)
-* [Visualization Lecture - Josh - pdf](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture16-Josh.pdf)
+* [Visualization Lecture - Josh - pdf](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%2016%20-%20Josh.pdf)
 * [Visualization Code - Karla](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture16-Karla.ipynb)
 * [Visualization Code - Josh](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture16-Josh.ipynb)
+
+## Lecture 17 Summary (Naive Bayes)
+
+
+**Summary**
+
+* Naive Bayes Algorithm introduced
+* Guassian NB
+* Bernoulli NB
+* Multinomial NB
+* Advantages and Disadvantages of using NB
+
+**Resources**
+
+- [Lecture 17 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%2017.pptx)
+- [Naive Bayes - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture17.ipynb) 
+- [Naive Bayes - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture17-Practice-Code.ipynb) 
+
+
+**Additional Resources**
+
+* High level overview of Naive Bayes - [Useful slides](http://www.cs.ucr.edu/~eamonn/CE/Bayesian%20Classification%20withInsect_examples.pdf)  
+* Easy-to-read lecture notes on [Naive Bayes](http://www.cs.colostate.edu/~cs545/fall13/dokuwiki/lib/exe/fetch.php?media=wiki%3A13_naive_bayes.pdf)
+* Naive Bayes model explained in more detail. [Harvard Unviersity - lecture notes](http://isites.harvard.edu/fs/docs/icb.topic540049.files/cs181_lec18_handout.pdf)
+* For more details on Naive Bayes classification, Wikipedia has two excellent articles ([Naive Bayes classifier](http://en.wikipedia.org/wiki/Naive_Bayes_classifier) and [Naive Bayes spam filtering](http://en.wikipedia.org/wiki/Naive_Bayes_spam_filtering)), and Cross Validated has a good [Q&A](http://stats.stackexchange.com/questions/21822/understanding-naive-bayes).
+
