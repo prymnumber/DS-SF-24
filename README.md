@@ -424,4 +424,20 @@ Tuesdays | Thursdays
 - [Voting Classifier - Solution Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture18-Practice-Solutions.ipynb)
 
 
+## Sessions 19 and 20 - Group Projects
 
+- [Alex's Project]
+- [Allison's Project]
+- [Chelsie's Project]
+- [Chloe'e Project]
+- [Christopher's Project]
+- [Eric's Proejct]
+- [Faryar's Project]
+- [Gabriel's Project]
+- [Ian's Project]
+- [Irene's Project]
+- [Julie's Project]
+- [Lihua's Project]
+- [Phillip's Project]
+- [Tricia's Project]
+- Hu's project - [Part 1](http://nbviewer.jupyter.org/github/xu-hong/sfpd-crime/blob/master/SFPD_Crime_Classification_Final.ipynb) and [Part 2](http://nbviewer.jupyter.org/github/xu-hong/sfpd-crime/blob/master/SFPD_Crime_Mapping.ipynb)
