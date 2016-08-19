@@ -426,18 +426,18 @@ Tuesdays | Thursdays
 
 ## Sessions 19 and 20 - Group Projects
 
-- [Alex's Project]
-- [Allison's Project]
-- [Chelsie's Project]
-- [Chloe'e Project]
-- [Christopher's Project]
-- [Eric's Proejct]
-- [Faryar's Project]
-- [Gabriel's Project]
-- [Ian's Project]
-- [Irene's Project]
-- [Julie's Project]
-- [Lihua's Project]
-- [Phillip's Project]
-- [Tricia's Project]
+- [Alex's Project](https://github.com/ga-students/DS-SF-24/blob/master/DS24_Final%20Projects/Alex_Project.key)
+- [Allison's Project](https://github.com/ga-students/DS-SF-24/blob/master/DS24_Final%20Projects/Allison_Marseille.pptx)
+- [Chelsie's Project](https://github.com/ga-students/DS-SF-24/blob/master/DS24_Final%20Projects/Chelsie_Zhang.pdf)
+- [Chloe'e Project](https://github.com/ga-students/DS-SF-24/blob/master/DS24_Final%20Projects/Chloe.pdf)
+- [Christopher's Project](https://github.com/ga-students/DS-SF-24/blob/master/DS24_Final%20Projects/Chris_Salviati.pptx)
+- [Eric's Proejct](https://github.com/ga-students/DS-SF-24/blob/master/DS24_Final%20Projects/ErikBurd_Lending%20Club%20Data%20Science%20project.pptx)
+- [Faryar's Project](https://github.com/ga-students/DS-SF-24/blob/master/DS24_Final%20Projects/Faryar.pptx)
+- [Gabriel's Project](https://github.com/ga-students/DS-SF-24/blob/master/DS24_Final%20Projects/Forest_Fires_Gabriel.pdf)
+- [Ian's Project](https://github.com/ga-students/DS-SF-24/blob/master/DS24_Final%20Projects/ianchan-terror.pdf)
+- [Irene's Project](https://github.com/ga-students/DS-SF-24/blob/master/DS24_Final%20Projects/Irene%20Data%20Science%20Project%20Summary%20Scrubbed.pptx)
+- [Julie's Project](https://github.com/ga-students/DS-SF-24/blob/master/DS24_Final%20Projects/JulieTrier_Activated%20Signup%20Prediction%20Model.pdf)
+- [Lihua's Project](https://github.com/ga-students/DS-SF-24/blob/master/DS24_Final%20Projects/Lihua.pdf)
+- [Phillip's Project](https://github.com/ga-students/DS-SF-24/blob/master/DS24_Final%20Projects/Phillip_Dauer.pptx)
+- [Tricia's Project](https://github.com/ga-students/DS-SF-24/blob/master/DS24_Final%20Projects/Tricia_Aribnb.pptx)
 - Hu's project - [Part 1](http://nbviewer.jupyter.org/github/xu-hong/sfpd-crime/blob/master/SFPD_Crime_Classification_Final.ipynb) and [Part 2](http://nbviewer.jupyter.org/github/xu-hong/sfpd-crime/blob/master/SFPD_Crime_Mapping.ipynb)
