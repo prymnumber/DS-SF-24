@@ -440,4 +440,4 @@ Tuesdays | Thursdays
 - [Lihua's Project](https://github.com/ga-students/DS-SF-24/blob/master/DS24_Final%20Projects/Lihua.pdf)
 - [Phillip's Project](https://github.com/ga-students/DS-SF-24/blob/master/DS24_Final%20Projects/Phillip_Dauer.pptx)
 - [Tricia's Project](https://github.com/ga-students/DS-SF-24/blob/master/DS24_Final%20Projects/Tricia_Aribnb.pptx)
-- Hu's project - [Part 1](http://nbviewer.jupyter.org/github/xu-hong/sfpd-crime/blob/master/SFPD_Crime_Classification_Final.ipynb) and [Part 2](http://nbviewer.jupyter.org/github/xu-hong/sfpd-crime/blob/master/SFPD_Crime_Mapping.ipynb)
+- Hong's project - [Part 1](http://nbviewer.jupyter.org/github/xu-hong/sfpd-crime/blob/master/SFPD_Crime_Classification_Final.ipynb) and [Part 2](http://nbviewer.jupyter.org/github/xu-hong/sfpd-crime/blob/master/SFPD_Crime_Mapping.ipynb)
